@@ -1,0 +1,39 @@
+<head>>
+  <style>
+
+    body {
+      background-color: brown;
+    }
+
+    h1 {
+      color: rgb(187, 134, 154);
+      text-decoration: underline;
+    }
+
+    h2, h3, p {
+      color: rgb(158, 56, 78);
+    }
+
+    p, li {
+      font-size: 24px;
+      font-family: cursive;
+    }
+
+    .They are complex {
+      color: rgb(54, 40, 38);
+    }
+
+    .They absorb water and other particles {
+      color: rgb(54, 40, 38);
+    }
+
+    .They help to repair and restructure the habitats {
+      color: rgb(54, 40, 38);
+    }
+
+    .They are almost all adaptable to the every environment {
+      color: rgb(213, 224, 147);
+    }
+
+  </style>
+</head>
